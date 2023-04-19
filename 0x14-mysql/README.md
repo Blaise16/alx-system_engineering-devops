@@ -1,2 +1,1 @@
-# 0x14-mysql
-Alx MySQL
+0x14-mysql
